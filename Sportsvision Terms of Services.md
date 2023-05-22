@@ -1,13 +1,13 @@
-**Terms of Services**
-
- 
+<p align='center'>
+<strong>Terms of Services</strong>
+</p>
 
 These terms and conditions govern your use of the SportsVision app (the
 "App"). By downloading, accessing or using the App, you agree to be
 bound by these terms and conditions. If you do not agree to these terms
 and conditions, you should not use the App. 
 
-**[Accuracy of Results]{.underline}**
+**Accuracy of Results**
 
 The SportsVision App uses artificial intelligence technology to generate
 results. While we strive to provide the most accurate results possible,
@@ -16,16 +16,14 @@ understand and acknowledge that the results provided by the App may be
 incomplete or inaccurate, and you agree that SportsVision shall not be
 liable for any reliance placed on such results.
 
- 
-
-**[Use of Results]{.underline}**
+**Use of Results**
 
 The results provided by the SportsVision App are for informational
 purposes only and should not be used as a substitute for professional
 advice or judgment. You acknowledge that you are solely responsible for
 the use of the results and any decisions made based on such results. 
 
-[**Privacy Policy** ]{.underline}
+**Privacy Policy**
 
 SportsVision respects your privacy and is committed to protecting your
 personal data. Our Privacy Policy explains how we collect, use,
@@ -33,7 +31,7 @@ disclose, and protect your personal data when you use the App. By using
 the App, you consent to our collection and use of your personal data as
 described in our Privacy Policy. 
 
-**[Ownership and Intellectual Property]{.underline}**
+**Ownership and Intellectual Property**
 
 The SportsVision App and its entire contents, features, and
 functionality (including but not limited to all information, software,
@@ -43,7 +41,7 @@ protected by United States and international copyright, trademark,
 patent, trade secret, and other intellectual property or proprietary
 rights laws. 
 
-**[Prohibited Activities]{.underline}**
+**Prohibited Activities**
 
 You agree not to use the App for any unlawful or prohibited purpose,
 including but not limited to: 
@@ -66,7 +64,7 @@ including but not limited to: 
 -   Modify, adapt, translate, reverse engineer, decompile or disassemble
     any portion of the App. 
 
-**[Disclaimer of Warranties]{.underline}**
+**Disclaimer of Warranties**
 
 The App is provided on an "as is" and "as available" basis, without any
 warranties of any kind, express or implied. SportsVision disclaims all
@@ -76,7 +74,7 @@ SportsVision makes no warranty that the App will meet your requirements
 or be available on an uninterrupted, secure, or error-free basis. Any
 use of the App is at your own risk. 
 
-**[Limitation of Liability]{.underline}**
+**Limitation of Liability**
 
 In no event shall SportsVision or its affiliates, officers, directors,
 employees, agents, or licensors be liable for any direct, indirect,
@@ -85,7 +83,7 @@ way related to the use or inability to use the App, whether based on
 contract, tort, strict liability, or any other legal theory, even if
 SportsVision has been advised of the possibility of such damages. 
 
-**[Governing Law and Jurisdiction]{.underline}**
+**Governing Law and Jurisdiction**
 
 These Terms and Conditions and any dispute or claim arising out of or in
 connection with them or their subject matter (including non-contractual
@@ -109,7 +107,7 @@ such action may be brought in the courts of the jurisdiction in which
 SportsVision is incorporated or any other jurisdiction where the
 infringement or violation occurred. 
 
-**[Miscellaneous]{.underline}**
+**Miscellaneous**
 
 These Terms and Conditions constitute the entire agreement between you
 and SportsVision regarding the use of the SportsVision app and supersede
@@ -132,7 +130,7 @@ assign or transfer these Terms and Conditions or your rights and
 obligations hereunder, in whole or in part, without the prior written
 consent of SportsVision. 
 
-**[Changes to This Terms and Conditions]{.underline}**
+**Changes to This Terms and Conditions**
 
 We may update our Terms and Conditions from time to time. Thus, you are
 advised to review this page periodically for any changes. We will notify
@@ -140,10 +138,10 @@ you of any changes by posting the new Terms and Conditions on this page.
 These changes are effective immediately after they are posted on this
 page. 
 
-**[Contact Us]{.underline}**
+**Contact Us**
 
 If you have any questions or suggestions about our Terms and Conditions,
 do not hesitate to contact us at
-[[contact@vizworld.ai.]{.underline}](mailto:contact@vizworld.ai.) 
+contact@vizworld.ai.
 
  
